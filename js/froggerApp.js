@@ -8,7 +8,7 @@ var player;
 var playerInitPositionX = ctx.canvas.width / 2.5;
 var playerInitPositionY = ctx.canvas.height - 170;
 // time in milliseconds
-var bestTime = 0;
+// var bestTime = 0;
 
 
 /* Create a new object to use as base for
@@ -90,9 +90,6 @@ var Player = function(x, y, spriteImg, moveX, moveY) {
   this.Star = 'images/Star.png';
   this.lives = 5;
   this.score = 0;
-  this.timeCount = 0;
-  this.level = 0;
-
 }
 
 // update player
@@ -105,7 +102,6 @@ Player.prototype.update = function() {
     animate = true;
     this.reset();
     this.score += 100;
-    this.level = 0;
   }
 };
 
