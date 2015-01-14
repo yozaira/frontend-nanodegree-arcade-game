@@ -1,0 +1,177 @@
+===============================
+		  Video Tutorials
+==============================
+Udacity JavaScript Basics
+Udacity Intro to JQuery
+Udacity How to use Git and Github
+
+Lynda.com  Git Essentia Training
+TutsPlus - Advanced JavaScript Fundamentals
+Lynda.com  JavaScript Functions
+Lynda.com  JavaScript and JSON
+
+==============================
+		    Books
+==============================
+
+Svennerberg, Gabriel  (2010). Beginning Google Maps API 3. Apress .
+
+ Zakas., Nicholas C. (2012).  Professional JavaScript for Web Developers. Wrox.
+
+
+==============================
+	       Online articles and tutorials
+==============================
+
+
+
+		  Bootstrap
+==============================
+	
+Twitter Bootstrap Grid System
+http://getbootstrap.com/css/
+
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-grid-system.php
+
+Twitter Bootstrap Navbar
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php
+
+Twitter Bootstrap Forms
+http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-forms.php
+
+Using the progressbar role
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_progressbar_role
+
+
+
+
+			CSS
+====================
+
+CSS media queries
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries
+
+Logic in Media Queries
+http://css-tricks.com/logic-in-media-queries/
+
+What is Mobile First CSS and Why Does It Rock?
+http://www.mightyminnow.com/2013/11/what-is-mobile-first-css-and-why-does-it-rock/
+
+Font Awesome
+http://fontawesome.io/3.2.1/icons/
+
+
+CSS Shorthand Guide
+http://www.dustindiaz.com/css-shorthand/
+
+border-radius
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+
+border-radius
+http://css-tricks.com/almanac/properties/b/border-radius/
+
+CSS3 Progress Bars
+http://css-tricks.com/css3-progress-bars/
+
+
+
+			JQuery:
+=========================
+
+43,439 reasons to use append() correctly
+http://www.learningjquery.com/2009/03/43439-reasons-to-use-append-correctly/
+
+Adding Elements to the Page in jQuery
+http://www.elated.com/articles/jquery-adding-elements/
+
+Change an element's CSS class with JavaScript
+http://stackoverflow.com/questions/195951/change-an-elements-css-class-with-javascript
+
+Responsive animated progress bar with CSS3, Jquery and Twitter Bootstrap
+http://w3digest.com/responsive-animated-progress-bar-with-css3-jquery-and-twitter-bootstrap/
+
+
+
+
+			JavaScript:
+===========================
+
+document.createElement
+Pasted from <https://developer.mozilla.org/en-US/docs/Web/API/document.createElement> 
+
+Adding CSS To HTML Elements With JavaScript
+Pasted from <http://demosthenes.info/blog/694/Adding-CSS-To-HTML-Elements-With-JavaScript> 
+
+Statements (Control Flow)
+Pasted from <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements> 
+
+Javascript getAttribute, setAttribute, removeAttribute 
+http://www.mediaevent.de/javascript/DOM-Attribute.html
+
+Setting CSS Styles using JavaScript
+http://www.kirupa.com/html5/setting_css_styles_using_javascript.htm
+
+indexOf Method (Array) (JavaScript)
+http://msdn.microsoft.com/en-us/library/ie/ff679977%28v=vs.94%29.aspx
+
+window.onload vs $(document).ready() 
+http://stackoverflow.com/questions/3698200/window-onload-vs-document-ready
+
+Using the DOMContentLoaded event
+http://www.rgraph.net/docs/the-domcontentloaded-event.html
+
+load | onload event
+http://msdn.microsoft.com/en-us/library/windows/apps/hh465984.aspx
+
+JavaScript Closures 101: What is a closure?
+https://www.youtube.com/watch?v=yiEeiMN2Khs
+
+Understanding JavaScript Closures
+http://javascriptweblog.wordpress.com/2010/10/25/understanding-javascript-closures/
+
+Closures in loops
+http://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example
+
+Advanced JavaScript: Namespaces, Closures, Self-Invoking Functions, and much, muchÂ moreâ€¦
+http://sparecycles.wordpress.com/2008/06/29/advanced-javascript/
+
+Self Executing Anonymous Revealing Module Pattern
+http://www.andismith.com/blog/2011/10/self-executing-anonymous-revealing-module-pattern/
+
+Closures with self-invoking functions
+http://www.mrspeaker.net/2009/11/05/self-invoking-functions/
+
+JavaScript closure inside loops â€“ simple practical example
+http://stackoverflow.com/questions/750486/javascript-closure-inside-loops-simple-practical-example
+
+
+
+		           Google Maps
+================================
+
+Introduction to the Google Maps API 
+https://www.youtube.com/watch?v=ZE8ODPL2VPI> 
+
+Google Maps JavaScript API v3
+https://developers.google.com/maps/documentation/javascript/geocoding
+
+
+Google Maps Garage: Working with JSON Objects 
+https://www.youtube.com/watch?v=mfjqLmD6Li8
+
+
+Google Maps Geocoding by Address with Javascript Tutorial 
+https://www.youtube.com/watch?v=OMv8gZxrwag
+
+
+Control positioning
+https://developers.google.com/maps/documentation/javascript/examples/control-positioning
+
+Controls
+https://developers.google.com/maps/documentation/javascript/controls
+
+
+Geocoding Service
+https://developers.google.com/maps/documentation/javascript/geocoding
+
+
