@@ -9,7 +9,7 @@ frontend-nanodegree-arcade-game
 
 <p>No changes were made to resources.js or to the existing image files.</p>
 
-<h2>To run the game:</p>
+<h2>To run the game:</h2>
 
 <ul>   
   <li>Downloaded the application to a local directory from GitHub by clicking the Download link</li>
